@@ -16,7 +16,7 @@ export const TELEGRAM = '';
 // Телефон по умолчанию
 export const PHONE = '+7 (8452) 229-888';
 // Бренд
-export const BRAND = 'Belgee';
+export const BRAND = 'BELGEE';
 // Конечное время для таймера
 //string 2024-04-26 or 2024-04-26 23:59:59 or December 31 2015 or December 31 2015 23:59:59 GMT+02:00
 export const TIMER_ENDTIME = '';
