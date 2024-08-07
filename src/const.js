@@ -1,22 +1,22 @@
 import { phoneFormat } from '@/js/utils/numbers.format';
 // Название сайта по умолчанию
-export const SITE_NAME = 'Название сайта';
+export const SITE_NAME = 'Белджи Партнер Саратов';
 // Юр лицо
-export const LEGAL_ENTITY = 'ООО «Юридическое название»';
+export const LEGAL_ENTITY = 'ООО «САРАТОВ-АВТО-ЛЮКС»';
 // ИНН
-export const LEGAL_INN = '1234567890';
+export const LEGAL_INN = '6450932950';
 // Город
-export const LEGAL_CITY = 'г. Город';
+export const LEGAL_CITY = 'г. Саратов';
 // где? в Городе
-export const LEGAL_CITY_WHERE = 'Городе';
+export const LEGAL_CITY_WHERE = 'Саратове';
 // Описание сайта по умолчанию
 export const SITE_DESCR = 'Официальный дилерский центр';
 // Имя пользователя в Телегам
 export const TELEGRAM = '';
 // Телефон по умолчанию
-export const PHONE = '+7 (999) 000-00-00';
+export const PHONE = '+7 (8452) 229-888';
 // Бренд
-export const BRAND = 'Baic';
+export const BRAND = 'Belgee';
 // Конечное время для таймера
 //string 2024-04-26 or 2024-04-26 23:59:59 or December 31 2015 or December 31 2015 23:59:59 GMT+02:00
 export const TIMER_ENDTIME = '';
@@ -28,9 +28,9 @@ export const LINK_WIDGET = 'https://yandex.ru/map-widget/v1/-/';
 export const LINK_WIDGET_ORGNIZATION = '';
 // Ссылки под хедером
 export const LINKS_MENU = [
-	{url: 'cars/', name: 'Авто в наличии'},
+	// {url: 'cars/', name: 'Авто в наличии'},
 	{url: 'special-offers/', name: 'Спецпредложения'},
-	{url: 'news/', name: 'Новости'},
+	// {url: 'news/', name: 'Новости'},
 	{url: 'test-drive/', name: 'Запись на тест-драйв'},
 	{url: 'service-request/', name: 'Запись на сервис'},
 	{url: '#services', name: 'Услуги'},

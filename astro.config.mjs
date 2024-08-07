@@ -10,7 +10,7 @@ import icon from "astro-icon";
 export default defineConfig({
 	integrations: [
 		tailwind({
-			configFile: './tailwind.config.js'
+			configFile: './tailwind.belgee.js'
 		}),
 		sitemap(),
 		robots({
@@ -26,6 +26,6 @@ export default defineConfig({
 		mdx(),
 		icon(),
 	],
-	site: 'https://site.com',
+	site: 'https://belgee-partner-saratov.ru',
 	base: "/"
 });
