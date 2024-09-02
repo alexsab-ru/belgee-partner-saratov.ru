@@ -2,34 +2,6 @@
 <data>
 	<cars>
 		<car>
-			<unique_id>424b59c9704378c14cd0d06aae2bcc2f</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Prestige</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>2515990</price>
-			<credit_discount>135000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>185000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622ZXRB930582</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>2195990</priceWithDiscount><sale_price>2195990</sale_price><url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-prestige-белый-2024/</url></car>
-		<car>
 			<unique_id>3b1eb191b6d25a1c7ebdb6177a38b75a</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X50</folder_id>
@@ -86,34 +58,6 @@
 			</multiposting>
 		<priceWithDiscount>2195990</priceWithDiscount><sale_price>2195990</sale_price><url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-prestige-серый-2024/</url></car>
 		<car>
-			<unique_id>4ee062c92cf3dcc6d157a0440956258c</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Prestige</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>7</run>
-			<year>2024</year>
-			<price>2515990</price>
-			<credit_discount>135000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>185000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z7RB934864</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>2195990</priceWithDiscount><sale_price>2195990</sale_price><url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-prestige-серый-2024/</url></car>
-		<car>
 			<unique_id>37d527b1cc8a1b4166fae43424a16df3</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X50</folder_id>
@@ -135,6 +79,34 @@
 			<max_discount>320000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z8RB934694</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>2195990</priceWithDiscount><sale_price>2195990</sale_price><url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-prestige-серый-2024/</url></car>
+		<car>
+			<unique_id>4ee062c92cf3dcc6d157a0440956258c</unique_id>
+			<mark_id>BELGEE</mark_id>
+			<folder_id>X50</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<complectation_name>Prestige</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>7</run>
+			<year>2024</year>
+			<price>2515990</price>
+			<credit_discount>135000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>185000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>320000</max_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8622Z7RB934864</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -254,34 +226,6 @@
 			</multiposting>
 		<priceWithDiscount>2195990</priceWithDiscount><sale_price>2195990</sale_price><url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-prestige-красный-2024/</url></car>
 		<car>
-			<unique_id>647601fdbec8df415d83686450878e47</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Prestige</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>7</run>
-			<year>2024</year>
-			<price>2515990</price>
-			<credit_discount>135000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>185000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z5RB934619</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>2195990</priceWithDiscount><sale_price>2195990</sale_price><url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-prestige-красный-2024/</url></car>
-		<car>
 			<unique_id>b679e3fe3a13abdd33e0cd627d7ec0ab</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X50</folder_id>
@@ -303,6 +247,34 @@
 			<max_discount>320000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z6RB934550</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>2195990</priceWithDiscount><sale_price>2195990</sale_price><url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-prestige-красный-2024/</url></car>
+		<car>
+			<unique_id>647601fdbec8df415d83686450878e47</unique_id>
+			<mark_id>BELGEE</mark_id>
+			<folder_id>X50</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<complectation_name>Prestige</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Красный</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>7</run>
+			<year>2024</year>
+			<price>2515990</price>
+			<credit_discount>135000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>185000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>320000</max_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8622Z5RB934619</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -338,7 +310,7 @@
 			</multiposting>
 		<priceWithDiscount>2095990</priceWithDiscount><sale_price>2095990</sale_price><url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-style-белый-2024/</url></car>
 		<car>
-			<unique_id>d1204bc3d2f62ceca19195584d512fbf</unique_id>
+			<unique_id>e554f1514677f4bfb1739f65d671ea54</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X50</folder_id>
 			<modification_id>1.5 AMT (150 л.с.)</modification_id>
@@ -358,7 +330,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>320000</max_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8622Z1RB927358</vin>
+			<vin>Y4K8622Z1RB927392</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -394,7 +366,7 @@
 			</multiposting>
 		<priceWithDiscount>2095990</priceWithDiscount><sale_price>2095990</sale_price><url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-style-серебристый-2024/</url></car>
 		<car>
-			<unique_id>e554f1514677f4bfb1739f65d671ea54</unique_id>
+			<unique_id>d1204bc3d2f62ceca19195584d512fbf</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X50</folder_id>
 			<modification_id>1.5 AMT (150 л.с.)</modification_id>
@@ -414,7 +386,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>320000</max_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8622Z1RB927392</vin>
+			<vin>Y4K8622Z1RB927358</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -534,34 +506,6 @@
 			</multiposting>
 		<priceWithDiscount>2095990</priceWithDiscount><sale_price>2095990</sale_price><url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-style-серебристый-2024/</url></car>
 		<car>
-			<unique_id>603060d52165f60842e768f4e3f96a15</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серебристый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>7</run>
-			<year>2024</year>
-			<price>2415990</price>
-			<credit_discount>135000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>185000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z5RB931140</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>2095990</priceWithDiscount><sale_price>2095990</sale_price><url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-style-серебристый-2024/</url></car>
-		<car>
 			<unique_id>e430fe7cb0f3548062bdbd9bb04208ed</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X50</folder_id>
@@ -583,6 +527,34 @@
 			<max_discount>320000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z4RB931002</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>2095990</priceWithDiscount><sale_price>2095990</sale_price><url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-style-серебристый-2024/</url></car>
+		<car>
+			<unique_id>603060d52165f60842e768f4e3f96a15</unique_id>
+			<mark_id>BELGEE</mark_id>
+			<folder_id>X50</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<complectation_name>Style</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серебристый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>7</run>
+			<year>2024</year>
+			<price>2415990</price>
+			<credit_discount>135000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>185000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>320000</max_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8622Z5RB931140</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -702,34 +674,6 @@
 			</multiposting>
 		<priceWithDiscount>2095990</priceWithDiscount><sale_price>2095990</sale_price><url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-style-серый-2024/</url></car>
 		<car>
-			<unique_id>d5460501ae13c8ef3f85bf18dbab4134</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>7</run>
-			<year>2024</year>
-			<price>2415990</price>
-			<credit_discount>135000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>185000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z7RB932628</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>2095990</priceWithDiscount><sale_price>2095990</sale_price><url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-style-серый-2024/</url></car>
-		<car>
 			<unique_id>f3b6abb187845cdc54f6686bf309d739</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X50</folder_id>
@@ -758,6 +702,34 @@
 			</multiposting>
 		<priceWithDiscount>2095990</priceWithDiscount><sale_price>2095990</sale_price><url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-style-серый-2024/</url></car>
 		<car>
+			<unique_id>d5460501ae13c8ef3f85bf18dbab4134</unique_id>
+			<mark_id>BELGEE</mark_id>
+			<folder_id>X50</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<complectation_name>Style</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>7</run>
+			<year>2024</year>
+			<price>2415990</price>
+			<credit_discount>135000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>185000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>320000</max_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8622Z7RB932628</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>2095990</priceWithDiscount><sale_price>2095990</sale_price><url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-style-серый-2024/</url></car>
+		<car>
 			<unique_id>520210ba33529e5a585e239e55ca770d</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X50</folder_id>
@@ -779,6 +751,34 @@
 			<max_discount>320000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z1RB933256</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>2095990</priceWithDiscount><sale_price>2095990</sale_price><url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-style-серый-2024/</url></car>
+		<car>
+			<unique_id>84a72bf1d8437d7f6c56b1514cf8c6e7</unique_id>
+			<mark_id>BELGEE</mark_id>
+			<folder_id>X50</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<complectation_name>Style</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>5</run>
+			<year>2024</year>
+			<price>2415990</price>
+			<credit_discount>135000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>185000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>320000</max_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8622ZXRB932638</vin>
 			<description />
 			<images />
 			<multiposting>
