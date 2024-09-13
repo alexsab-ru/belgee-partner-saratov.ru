@@ -54,7 +54,9 @@ for car in cars_element:
     create_child_element(car, 'url', f"https://{repo_name}/cars/{unique_id}/")
     # Создаем дубликаты, но не добавляем их сразу в cars_element
     duplicates = duplicate_car(car, 1, "в наличии")
+    all_duplicates.extend(duplicates)  # Добавляем дубликаты в отдельный список
     duplicates = duplicate_car(car, 7)
+    all_duplicates.extend(duplicates)  # Добавляем дубликаты в отдельный список
     duplicates = duplicate_car(car, 1, "на заказ")
     all_duplicates.extend(duplicates)  # Добавляем дубликаты в отдельный список
 
