@@ -263,7 +263,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z5RB939111</vin>
 			<description />
@@ -291,7 +291,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z1RB927392</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -335,7 +335,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z1RB927389</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -379,7 +379,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z9RB929732</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -423,7 +423,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z4RB930724</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -467,7 +467,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z8RB932654</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -511,7 +511,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622ZXRB932638</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -555,7 +555,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z3RB929774</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -595,11 +595,11 @@
 			<run>6</run>
 			<year>2024</year>
 			<price>3237990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D4RB322137</vin>
 			<description />
@@ -623,11 +623,11 @@
 			<run>8</run>
 			<year>2024</year>
 			<price>3237990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D7RB320169</vin>
 			<description />
@@ -655,7 +655,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>450000</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D6RB321975</vin>
 			<description />
@@ -683,7 +683,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>450000</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722DXRB317430</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -722,11 +722,11 @@
 			<run>7</run>
 			<year>2024</year>
 			<price>3037990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D3RB323764</vin>
 			<description />
@@ -750,11 +750,11 @@
 			<run>7</run>
 			<year>2024</year>
 			<price>3037990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D5RB322583</vin>
 			<description />
@@ -778,11 +778,11 @@
 			<run>7</run>
 			<year>2024</year>
 			<price>3037990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D5RB322499</vin>
 			<description />
@@ -806,11 +806,11 @@
 			<run>8</run>
 			<year>2024</year>
 			<price>2862990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722Z0RB327444</vin>
 			<description />
@@ -834,11 +834,11 @@
 			<run>7</run>
 			<year>2024</year>
 			<price>2862990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722Z7RB327523</vin>
 			<description />
@@ -862,11 +862,11 @@
 			<run>7</run>
 			<year>2024</year>
 			<price>2862990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722Z4RB327110</vin>
 			<description />
@@ -3090,7 +3090,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z5RB939112</vin>
 			<description />
@@ -3118,7 +3118,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z5RB939113</vin>
 			<description />
@@ -3146,7 +3146,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z5RB939114</vin>
 			<description />
@@ -3174,7 +3174,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z5RB939115</vin>
 			<description />
@@ -3202,7 +3202,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z5RB939116</vin>
 			<description />
@@ -3230,7 +3230,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z5RB939117</vin>
 			<description />
@@ -3258,7 +3258,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z5RB939118</vin>
 			<description />
@@ -3286,7 +3286,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z5RB939119</vin>
 			<description />
@@ -3314,7 +3314,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z5RB939120</vin>
 			<description />
@@ -3342,7 +3342,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z1RB927393</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -3386,7 +3386,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z1RB927394</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -3430,7 +3430,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z1RB927395</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -3474,7 +3474,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z1RB927396</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -3518,7 +3518,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z1RB927397</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -3562,7 +3562,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z1RB927398</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -3606,7 +3606,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z1RB927399</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -3650,7 +3650,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z1RB927400</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -3694,7 +3694,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z1RB927401</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -3738,7 +3738,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z1RB927390</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -3782,7 +3782,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z1RB927391</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -3826,7 +3826,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z1RB927392</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -3870,7 +3870,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z1RB927393</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -3914,7 +3914,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z1RB927394</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -3958,7 +3958,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z1RB927395</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -4002,7 +4002,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z1RB927396</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -4046,7 +4046,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z1RB927397</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -4090,7 +4090,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z1RB927398</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -4134,7 +4134,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z9RB929733</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -4178,7 +4178,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z9RB929734</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -4222,7 +4222,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z9RB929735</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -4266,7 +4266,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z9RB929736</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -4310,7 +4310,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z9RB929737</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -4354,7 +4354,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z9RB929738</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -4398,7 +4398,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z9RB929739</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -4442,7 +4442,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z9RB929740</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -4486,7 +4486,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z9RB929741</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -4530,7 +4530,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z4RB930725</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -4574,7 +4574,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z4RB930726</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -4618,7 +4618,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z4RB930727</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -4662,7 +4662,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z4RB930728</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -4706,7 +4706,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z4RB930729</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -4750,7 +4750,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z4RB930730</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -4794,7 +4794,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z4RB930731</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -4838,7 +4838,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z4RB930732</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -4882,7 +4882,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z4RB930733</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -4926,7 +4926,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z8RB932655</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -4970,7 +4970,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z8RB932656</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -5014,7 +5014,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z8RB932657</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -5058,7 +5058,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z8RB932658</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -5102,7 +5102,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z8RB932659</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -5146,7 +5146,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z8RB932660</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -5190,7 +5190,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z8RB932661</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -5234,7 +5234,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z8RB932662</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -5278,7 +5278,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z8RB932663</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -5322,7 +5322,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622ZXRB932639</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -5366,7 +5366,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622ZXRB932640</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -5410,7 +5410,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622ZXRB932641</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -5454,7 +5454,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622ZXRB932642</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -5498,7 +5498,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622ZXRB932643</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -5542,7 +5542,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622ZXRB932644</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -5586,7 +5586,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622ZXRB932645</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -5630,7 +5630,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622ZXRB932646</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -5674,7 +5674,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622ZXRB932647</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -5718,7 +5718,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z3RB929775</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -5762,7 +5762,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z3RB929776</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -5806,7 +5806,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z3RB929777</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -5850,7 +5850,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z3RB929778</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -5894,7 +5894,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z3RB929779</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -5938,7 +5938,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z3RB929780</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -5982,7 +5982,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z3RB929781</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -6026,7 +6026,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z3RB929782</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -6070,7 +6070,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>420000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z3RB929783</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -6110,11 +6110,11 @@
 			<run>6</run>
 			<year>2024</year>
 			<price>3237990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D4RB322138</vin>
 			<description />
@@ -6138,11 +6138,11 @@
 			<run>6</run>
 			<year>2024</year>
 			<price>3237990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D4RB322139</vin>
 			<description />
@@ -6166,11 +6166,11 @@
 			<run>6</run>
 			<year>2024</year>
 			<price>3237990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D4RB322140</vin>
 			<description />
@@ -6194,11 +6194,11 @@
 			<run>6</run>
 			<year>2024</year>
 			<price>3237990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D4RB322141</vin>
 			<description />
@@ -6222,11 +6222,11 @@
 			<run>6</run>
 			<year>2024</year>
 			<price>3237990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D4RB322142</vin>
 			<description />
@@ -6250,11 +6250,11 @@
 			<run>6</run>
 			<year>2024</year>
 			<price>3237990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D4RB322143</vin>
 			<description />
@@ -6278,11 +6278,11 @@
 			<run>6</run>
 			<year>2024</year>
 			<price>3237990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D4RB322144</vin>
 			<description />
@@ -6306,11 +6306,11 @@
 			<run>6</run>
 			<year>2024</year>
 			<price>3237990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D4RB322145</vin>
 			<description />
@@ -6334,11 +6334,11 @@
 			<run>6</run>
 			<year>2024</year>
 			<price>3237990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D4RB322146</vin>
 			<description />
@@ -6362,11 +6362,11 @@
 			<run>8</run>
 			<year>2024</year>
 			<price>3237990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D7RB320170</vin>
 			<description />
@@ -6390,11 +6390,11 @@
 			<run>8</run>
 			<year>2024</year>
 			<price>3237990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D7RB320171</vin>
 			<description />
@@ -6418,11 +6418,11 @@
 			<run>8</run>
 			<year>2024</year>
 			<price>3237990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D7RB320172</vin>
 			<description />
@@ -6446,11 +6446,11 @@
 			<run>8</run>
 			<year>2024</year>
 			<price>3237990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D7RB320173</vin>
 			<description />
@@ -6474,11 +6474,11 @@
 			<run>8</run>
 			<year>2024</year>
 			<price>3237990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D7RB320174</vin>
 			<description />
@@ -6502,11 +6502,11 @@
 			<run>8</run>
 			<year>2024</year>
 			<price>3237990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D7RB320175</vin>
 			<description />
@@ -6530,11 +6530,11 @@
 			<run>8</run>
 			<year>2024</year>
 			<price>3237990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D7RB320176</vin>
 			<description />
@@ -6558,11 +6558,11 @@
 			<run>8</run>
 			<year>2024</year>
 			<price>3237990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D7RB320177</vin>
 			<description />
@@ -6586,11 +6586,11 @@
 			<run>8</run>
 			<year>2024</year>
 			<price>3237990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D7RB320178</vin>
 			<description />
@@ -6618,7 +6618,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>450000</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D6RB321976</vin>
 			<description />
@@ -6646,7 +6646,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>450000</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D6RB321977</vin>
 			<description />
@@ -6674,7 +6674,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>450000</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D6RB321978</vin>
 			<description />
@@ -6702,7 +6702,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>450000</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D6RB321979</vin>
 			<description />
@@ -6730,7 +6730,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>450000</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D6RB321980</vin>
 			<description />
@@ -6758,7 +6758,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>450000</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D6RB321981</vin>
 			<description />
@@ -6786,7 +6786,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>450000</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D6RB321982</vin>
 			<description />
@@ -6814,7 +6814,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>450000</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D6RB321983</vin>
 			<description />
@@ -6842,7 +6842,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>450000</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D6RB321984</vin>
 			<description />
@@ -6870,7 +6870,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>450000</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722DXRB317431</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -6913,7 +6913,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>450000</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722DXRB317432</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -6956,7 +6956,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>450000</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722DXRB317433</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -6999,7 +6999,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>450000</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722DXRB317434</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -7042,7 +7042,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>450000</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722DXRB317435</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -7085,7 +7085,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>450000</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722DXRB317436</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -7128,7 +7128,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>450000</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722DXRB317437</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -7171,7 +7171,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>450000</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722DXRB317438</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -7214,7 +7214,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>450000</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722DXRB317439</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
@@ -7253,11 +7253,11 @@
 			<run>7</run>
 			<year>2024</year>
 			<price>3037990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D3RB323765</vin>
 			<description />
@@ -7281,11 +7281,11 @@
 			<run>7</run>
 			<year>2024</year>
 			<price>3037990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D3RB323766</vin>
 			<description />
@@ -7309,11 +7309,11 @@
 			<run>7</run>
 			<year>2024</year>
 			<price>3037990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D3RB323767</vin>
 			<description />
@@ -7337,11 +7337,11 @@
 			<run>7</run>
 			<year>2024</year>
 			<price>3037990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D3RB323768</vin>
 			<description />
@@ -7365,11 +7365,11 @@
 			<run>7</run>
 			<year>2024</year>
 			<price>3037990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D3RB323769</vin>
 			<description />
@@ -7393,11 +7393,11 @@
 			<run>7</run>
 			<year>2024</year>
 			<price>3037990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D3RB323770</vin>
 			<description />
@@ -7421,11 +7421,11 @@
 			<run>7</run>
 			<year>2024</year>
 			<price>3037990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D3RB323771</vin>
 			<description />
@@ -7449,11 +7449,11 @@
 			<run>7</run>
 			<year>2024</year>
 			<price>3037990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D3RB323772</vin>
 			<description />
@@ -7477,11 +7477,11 @@
 			<run>7</run>
 			<year>2024</year>
 			<price>3037990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D3RB323773</vin>
 			<description />
@@ -7505,11 +7505,11 @@
 			<run>7</run>
 			<year>2024</year>
 			<price>3037990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D5RB322584</vin>
 			<description />
@@ -7533,11 +7533,11 @@
 			<run>7</run>
 			<year>2024</year>
 			<price>3037990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D5RB322585</vin>
 			<description />
@@ -7561,11 +7561,11 @@
 			<run>7</run>
 			<year>2024</year>
 			<price>3037990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D5RB322586</vin>
 			<description />
@@ -7589,11 +7589,11 @@
 			<run>7</run>
 			<year>2024</year>
 			<price>3037990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D5RB322587</vin>
 			<description />
@@ -7617,11 +7617,11 @@
 			<run>7</run>
 			<year>2024</year>
 			<price>3037990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D5RB322588</vin>
 			<description />
@@ -7645,11 +7645,11 @@
 			<run>7</run>
 			<year>2024</year>
 			<price>3037990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D5RB322589</vin>
 			<description />
@@ -7673,11 +7673,11 @@
 			<run>7</run>
 			<year>2024</year>
 			<price>3037990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D5RB322590</vin>
 			<description />
@@ -7701,11 +7701,11 @@
 			<run>7</run>
 			<year>2024</year>
 			<price>3037990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D5RB322591</vin>
 			<description />
@@ -7729,11 +7729,11 @@
 			<run>7</run>
 			<year>2024</year>
 			<price>3037990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D5RB322592</vin>
 			<description />
@@ -7757,11 +7757,11 @@
 			<run>7</run>
 			<year>2024</year>
 			<price>3037990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D5RB322500</vin>
 			<description />
@@ -7785,11 +7785,11 @@
 			<run>7</run>
 			<year>2024</year>
 			<price>3037990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D5RB322501</vin>
 			<description />
@@ -7813,11 +7813,11 @@
 			<run>7</run>
 			<year>2024</year>
 			<price>3037990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D5RB322502</vin>
 			<description />
@@ -7841,11 +7841,11 @@
 			<run>7</run>
 			<year>2024</year>
 			<price>3037990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D5RB322503</vin>
 			<description />
@@ -7869,11 +7869,11 @@
 			<run>7</run>
 			<year>2024</year>
 			<price>3037990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D5RB322504</vin>
 			<description />
@@ -7897,11 +7897,11 @@
 			<run>7</run>
 			<year>2024</year>
 			<price>3037990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D5RB322505</vin>
 			<description />
@@ -7925,11 +7925,11 @@
 			<run>7</run>
 			<year>2024</year>
 			<price>3037990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D5RB322506</vin>
 			<description />
@@ -7953,11 +7953,11 @@
 			<run>7</run>
 			<year>2024</year>
 			<price>3037990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D5RB322507</vin>
 			<description />
@@ -7981,11 +7981,11 @@
 			<run>7</run>
 			<year>2024</year>
 			<price>3037990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D5RB322508</vin>
 			<description />
@@ -8009,11 +8009,11 @@
 			<run>8</run>
 			<year>2024</year>
 			<price>2862990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722Z0RB327445</vin>
 			<description />
@@ -8037,11 +8037,11 @@
 			<run>8</run>
 			<year>2024</year>
 			<price>2862990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722Z0RB327446</vin>
 			<description />
@@ -8065,11 +8065,11 @@
 			<run>8</run>
 			<year>2024</year>
 			<price>2862990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722Z0RB327447</vin>
 			<description />
@@ -8093,11 +8093,11 @@
 			<run>8</run>
 			<year>2024</year>
 			<price>2862990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722Z0RB327448</vin>
 			<description />
@@ -8121,11 +8121,11 @@
 			<run>8</run>
 			<year>2024</year>
 			<price>2862990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722Z0RB327449</vin>
 			<description />
@@ -8149,11 +8149,11 @@
 			<run>8</run>
 			<year>2024</year>
 			<price>2862990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722Z0RB327450</vin>
 			<description />
@@ -8177,11 +8177,11 @@
 			<run>8</run>
 			<year>2024</year>
 			<price>2862990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722Z0RB327451</vin>
 			<description />
@@ -8205,11 +8205,11 @@
 			<run>8</run>
 			<year>2024</year>
 			<price>2862990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722Z0RB327452</vin>
 			<description />
@@ -8233,11 +8233,11 @@
 			<run>8</run>
 			<year>2024</year>
 			<price>2862990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722Z0RB327453</vin>
 			<description />
@@ -8261,11 +8261,11 @@
 			<run>7</run>
 			<year>2024</year>
 			<price>2862990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722Z7RB327524</vin>
 			<description />
@@ -8289,11 +8289,11 @@
 			<run>7</run>
 			<year>2024</year>
 			<price>2862990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722Z7RB327525</vin>
 			<description />
@@ -8317,11 +8317,11 @@
 			<run>7</run>
 			<year>2024</year>
 			<price>2862990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722Z7RB327526</vin>
 			<description />
@@ -8345,11 +8345,11 @@
 			<run>7</run>
 			<year>2024</year>
 			<price>2862990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722Z7RB327527</vin>
 			<description />
@@ -8373,11 +8373,11 @@
 			<run>7</run>
 			<year>2024</year>
 			<price>2862990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722Z7RB327528</vin>
 			<description />
@@ -8401,11 +8401,11 @@
 			<run>7</run>
 			<year>2024</year>
 			<price>2862990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722Z7RB327529</vin>
 			<description />
@@ -8429,11 +8429,11 @@
 			<run>7</run>
 			<year>2024</year>
 			<price>2862990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722Z7RB327530</vin>
 			<description />
@@ -8457,11 +8457,11 @@
 			<run>7</run>
 			<year>2024</year>
 			<price>2862990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722Z7RB327531</vin>
 			<description />
@@ -8485,11 +8485,11 @@
 			<run>7</run>
 			<year>2024</year>
 			<price>2862990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722Z7RB327532</vin>
 			<description />
@@ -8513,11 +8513,11 @@
 			<run>7</run>
 			<year>2024</year>
 			<price>2862990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722Z4RB327111</vin>
 			<description />
@@ -8541,11 +8541,11 @@
 			<run>7</run>
 			<year>2024</year>
 			<price>2862990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722Z4RB327112</vin>
 			<description />
@@ -8569,11 +8569,11 @@
 			<run>7</run>
 			<year>2024</year>
 			<price>2862990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722Z4RB327113</vin>
 			<description />
@@ -8597,11 +8597,11 @@
 			<run>7</run>
 			<year>2024</year>
 			<price>2862990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722Z4RB327114</vin>
 			<description />
@@ -8625,11 +8625,11 @@
 			<run>7</run>
 			<year>2024</year>
 			<price>2862990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722Z4RB327115</vin>
 			<description />
@@ -8653,11 +8653,11 @@
 			<run>7</run>
 			<year>2024</year>
 			<price>2862990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722Z4RB327116</vin>
 			<description />
@@ -8681,11 +8681,11 @@
 			<run>7</run>
 			<year>2024</year>
 			<price>2862990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722Z4RB327117</vin>
 			<description />
@@ -8709,11 +8709,11 @@
 			<run>7</run>
 			<year>2024</year>
 			<price>2862990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722Z4RB327118</vin>
 			<description />
@@ -8737,11 +8737,11 @@
 			<run>7</run>
 			<year>2024</year>
 			<price>2862990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722Z4RB327119</vin>
 			<description />
