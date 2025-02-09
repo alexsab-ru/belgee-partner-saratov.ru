@@ -130,6 +130,42 @@
 			</multiposting>
 		<url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-prestige-белый-2024/</url></car>
 		<car>
+			<unique_id>e494e8abf2a625482e2b16368cfebcd0</unique_id>
+			<mark_id>BELGEE</mark_id>
+			<folder_id>X50</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<complectation_name>Prestige</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>7</run>
+			<year>2024</year>
+			<price>2690190</price>
+			<credit_discount>389097</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>350000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>739097</max_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8622Z9RB942528</vin>
+			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
+
+✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
+
+✅Bыгoдa по программе Трейд-ин до 185 000 руб
+
+✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
+
+✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-prestige-белый-2024/</url></car>
+		<car>
 			<unique_id>fd8b0a33c20195156611cd0955093caf</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X50</folder_id>
@@ -151,42 +187,6 @@
 			<max_discount>739097</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z8RB942682</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-prestige-белый-2024/</url></car>
-		<car>
-			<unique_id>39fedb74253456b41c61b45abed86b24</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Prestige</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>7</run>
-			<year>2024</year>
-			<price>2690190</price>
-			<credit_discount>389097</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>350000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>739097</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z6RB943152</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
 
 ✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
@@ -238,7 +238,7 @@
 			</multiposting>
 		<url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-prestige-белый-2024/</url></car>
 		<car>
-			<unique_id>e494e8abf2a625482e2b16368cfebcd0</unique_id>
+			<unique_id>39fedb74253456b41c61b45abed86b24</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X50</folder_id>
 			<modification_id>1.5 AMT (150 л.с.)</modification_id>
@@ -258,7 +258,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>739097</max_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8622Z9RB942528</vin>
+			<vin>Y4K8622Z6RB943152</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
 
 ✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
@@ -326,50 +326,6 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-prestige-серебристый-2024/</url></car>
-		<car>
-			<unique_id>0369674afdca9cef96b3a8b0c7166d5e</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>5</run>
-			<year>2024</year>
-			<price>2590190</price>
-			<credit_discount>389097</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>350000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>739097</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z6RB927145</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/333483eb5d5c40dd21fd13e955c03b43.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/6434b68d6ff09a7d21a5d397e0b9d85c.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/fb37ea17af86fd0304cefe51b2b813a6.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/71ecb9ee133bb8057142776e33796b8e.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/255dcacbee6fb488142a1a204a2918e3.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/b539320963a61d1d52954ac95a9fa892.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/d3987707ab2bbe404d6369ae28c67c83.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-style-красный-2024/</url></car>
 		<car>
 			<unique_id>1d92dd3ff82eb48ebbed16f00256619b</unique_id>
 			<mark_id>BELGEE</mark_id>
@@ -607,55 +563,6 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://belgee-partner-saratov.ru/cars/belgee-x70-15-at-150-лс-style-серебристый-2024/</url></car>
-		<car>
-			<unique_id>16d9ea05da93c5921f35455f013bc0b5</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X70</folder_id>
-			<modification_id>1.5 AT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>2946190</price>
-			<credit_discount>628123</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>878123</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8722Z4RB330296</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/766e4fbbc0a86f28fce54d9793b95b92.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/b250dbf15f792a27d0029d74b0c6ddea.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/587767a6356432beca22776d24532543.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/5d2c1df4e1d36039719d41d5304753cf.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/ad6087772da33817c870df5d0d9efc88.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/c761f986461f15cedeb653b474bdaa9c.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/1eb824b9002f476ba60a270f3148b905.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/3babcc05800aead859d8d2b511b16372.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/4ddec9772b8a198a3a350f74e8654d63.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/f6a3425084251da65e6a33f6e9c5443b.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/530b9b8423d10747a581a3b90cb06b27.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/30b59f93f771e23a5e73c9fe52b9d883.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-partner-saratov.ru/cars/belgee-x70-15-at-150-лс-style-красный-2024/</url></car>
 	<car>
 			<unique_id>ed8056e043d1b3997cf595b86a81faca</unique_id>
 			<mark_id>BELGEE</mark_id>
@@ -4401,6 +4308,402 @@
 			</multiposting>
 		<url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-prestige-белый-2024/</url></car>
 		<car>
+			<unique_id>e494e8abf2a625482e2b16368cfebcd1</unique_id>
+			<mark_id>BELGEE</mark_id>
+			<folder_id>X50</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<complectation_name>Prestige</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>7</run>
+			<year>2024</year>
+			<price>2690190</price>
+			<credit_discount>389097</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>350000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>739097</max_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8622Z9RB942529</vin>
+			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
+
+✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
+
+✅Bыгoдa по программе Трейд-ин до 185 000 руб
+
+✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
+
+✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-prestige-белый-2024/</url></car>
+		<car>
+			<unique_id>e494e8abf2a625482e2b16368cfebcd2</unique_id>
+			<mark_id>BELGEE</mark_id>
+			<folder_id>X50</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<complectation_name>Prestige</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>7</run>
+			<year>2024</year>
+			<price>2690190</price>
+			<credit_discount>389097</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>350000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>739097</max_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8622Z9RB942530</vin>
+			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
+
+✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
+
+✅Bыгoдa по программе Трейд-ин до 185 000 руб
+
+✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
+
+✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-prestige-белый-2024/</url></car>
+		<car>
+			<unique_id>e494e8abf2a625482e2b16368cfebcd3</unique_id>
+			<mark_id>BELGEE</mark_id>
+			<folder_id>X50</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<complectation_name>Prestige</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>7</run>
+			<year>2024</year>
+			<price>2690190</price>
+			<credit_discount>389097</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>350000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>739097</max_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8622Z9RB942531</vin>
+			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
+
+✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
+
+✅Bыгoдa по программе Трейд-ин до 185 000 руб
+
+✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
+
+✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-prestige-белый-2024/</url></car>
+		<car>
+			<unique_id>e494e8abf2a625482e2b16368cfebcd4</unique_id>
+			<mark_id>BELGEE</mark_id>
+			<folder_id>X50</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<complectation_name>Prestige</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>7</run>
+			<year>2024</year>
+			<price>2690190</price>
+			<credit_discount>389097</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>350000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>739097</max_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8622Z9RB942532</vin>
+			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
+
+✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
+
+✅Bыгoдa по программе Трейд-ин до 185 000 руб
+
+✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
+
+✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-prestige-белый-2024/</url></car>
+		<car>
+			<unique_id>e494e8abf2a625482e2b16368cfebcd5</unique_id>
+			<mark_id>BELGEE</mark_id>
+			<folder_id>X50</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<complectation_name>Prestige</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>7</run>
+			<year>2024</year>
+			<price>2690190</price>
+			<credit_discount>389097</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>350000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>739097</max_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8622Z9RB942533</vin>
+			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
+
+✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
+
+✅Bыгoдa по программе Трейд-ин до 185 000 руб
+
+✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
+
+✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-prestige-белый-2024/</url></car>
+		<car>
+			<unique_id>e494e8abf2a625482e2b16368cfebcd6</unique_id>
+			<mark_id>BELGEE</mark_id>
+			<folder_id>X50</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<complectation_name>Prestige</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>7</run>
+			<year>2024</year>
+			<price>2690190</price>
+			<credit_discount>389097</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>350000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>739097</max_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8622Z9RB942534</vin>
+			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
+
+✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
+
+✅Bыгoдa по программе Трейд-ин до 185 000 руб
+
+✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
+
+✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-prestige-белый-2024/</url></car>
+		<car>
+			<unique_id>e494e8abf2a625482e2b16368cfebcd7</unique_id>
+			<mark_id>BELGEE</mark_id>
+			<folder_id>X50</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<complectation_name>Prestige</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>7</run>
+			<year>2024</year>
+			<price>2690190</price>
+			<credit_discount>389097</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>350000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>739097</max_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8622Z9RB942535</vin>
+			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
+
+✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
+
+✅Bыгoдa по программе Трейд-ин до 185 000 руб
+
+✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
+
+✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-prestige-белый-2024/</url></car>
+		<car>
+			<unique_id>e494e8abf2a625482e2b16368cfebcd8</unique_id>
+			<mark_id>BELGEE</mark_id>
+			<folder_id>X50</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<complectation_name>Prestige</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>7</run>
+			<year>2024</year>
+			<price>2690190</price>
+			<credit_discount>389097</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>350000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>739097</max_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8622Z9RB942536</vin>
+			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
+
+✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
+
+✅Bыгoдa по программе Трейд-ин до 185 000 руб
+
+✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
+
+✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-prestige-белый-2024/</url></car>
+		<car>
+			<unique_id>e494e8abf2a625482e2b16368cfebcd9</unique_id>
+			<mark_id>BELGEE</mark_id>
+			<folder_id>X50</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<complectation_name>Prestige</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>7</run>
+			<year>2024</year>
+			<price>2690190</price>
+			<credit_discount>389097</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>350000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>739097</max_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8622Z9RB942537</vin>
+			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
+
+✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
+
+✅Bыгoдa по программе Трейд-ин до 185 000 руб
+
+✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
+
+✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-prestige-белый-2024/</url></car>
+		<car>
+			<unique_id>e494e8abf2a625482e2b16368cfebcea</unique_id>
+			<mark_id>BELGEE</mark_id>
+			<folder_id>X50</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<complectation_name>Prestige</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>7</run>
+			<year>2024</year>
+			<price>2690190</price>
+			<credit_discount>389097</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>350000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>739097</max_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8622Z9RB942538</vin>
+			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
+
+✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
+
+✅Bыгoдa по программе Трейд-ин до 185 000 руб
+
+✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
+
+✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-prestige-белый-2024/</url></car>
+		<car>
+			<unique_id>e494e8abf2a625482e2b16368cfebceb</unique_id>
+			<mark_id>BELGEE</mark_id>
+			<folder_id>X50</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<complectation_name>Prestige</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>7</run>
+			<year>2024</year>
+			<price>2690190</price>
+			<credit_discount>389097</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>350000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>739097</max_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8622Z9RB942539</vin>
+			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
+
+✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
+
+✅Bыгoдa по программе Трейд-ин до 185 000 руб
+
+✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
+
+✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-prestige-белый-2024/</url></car>
+		<car>
 			<unique_id>fd8b0a33c20195156611cd0955093cag</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X50</folder_id>
@@ -4782,402 +5085,6 @@
 			<max_discount>739097</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z8RB942693</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-prestige-белый-2024/</url></car>
-		<car>
-			<unique_id>39fedb74253456b41c61b45abed86b25</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Prestige</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>7</run>
-			<year>2024</year>
-			<price>2690190</price>
-			<credit_discount>389097</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>350000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>739097</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z6RB943153</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-prestige-белый-2024/</url></car>
-		<car>
-			<unique_id>39fedb74253456b41c61b45abed86b26</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Prestige</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>7</run>
-			<year>2024</year>
-			<price>2690190</price>
-			<credit_discount>389097</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>350000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>739097</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z6RB943154</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-prestige-белый-2024/</url></car>
-		<car>
-			<unique_id>39fedb74253456b41c61b45abed86b27</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Prestige</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>7</run>
-			<year>2024</year>
-			<price>2690190</price>
-			<credit_discount>389097</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>350000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>739097</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z6RB943155</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-prestige-белый-2024/</url></car>
-		<car>
-			<unique_id>39fedb74253456b41c61b45abed86b28</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Prestige</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>7</run>
-			<year>2024</year>
-			<price>2690190</price>
-			<credit_discount>389097</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>350000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>739097</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z6RB943156</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-prestige-белый-2024/</url></car>
-		<car>
-			<unique_id>39fedb74253456b41c61b45abed86b29</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Prestige</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>7</run>
-			<year>2024</year>
-			<price>2690190</price>
-			<credit_discount>389097</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>350000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>739097</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z6RB943157</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-prestige-белый-2024/</url></car>
-		<car>
-			<unique_id>39fedb74253456b41c61b45abed86b3a</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Prestige</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>7</run>
-			<year>2024</year>
-			<price>2690190</price>
-			<credit_discount>389097</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>350000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>739097</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z6RB943158</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-prestige-белый-2024/</url></car>
-		<car>
-			<unique_id>39fedb74253456b41c61b45abed86b3b</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Prestige</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>7</run>
-			<year>2024</year>
-			<price>2690190</price>
-			<credit_discount>389097</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>350000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>739097</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z6RB943159</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-prestige-белый-2024/</url></car>
-		<car>
-			<unique_id>39fedb74253456b41c61b45abed86b3c</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Prestige</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>7</run>
-			<year>2024</year>
-			<price>2690190</price>
-			<credit_discount>389097</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>350000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>739097</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z6RB943160</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-prestige-белый-2024/</url></car>
-		<car>
-			<unique_id>39fedb74253456b41c61b45abed86b3d</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Prestige</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>7</run>
-			<year>2024</year>
-			<price>2690190</price>
-			<credit_discount>389097</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>350000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>739097</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z6RB943161</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-prestige-белый-2024/</url></car>
-		<car>
-			<unique_id>39fedb74253456b41c61b45abed86b3e</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Prestige</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>7</run>
-			<year>2024</year>
-			<price>2690190</price>
-			<credit_discount>389097</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>350000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>739097</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z6RB943162</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-prestige-белый-2024/</url></car>
-		<car>
-			<unique_id>39fedb74253456b41c61b45abed86b3f</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Prestige</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>7</run>
-			<year>2024</year>
-			<price>2690190</price>
-			<credit_discount>389097</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>350000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>739097</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z6RB943163</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
 
 ✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
@@ -5589,7 +5496,7 @@
 			</multiposting>
 		<url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-prestige-белый-2024/</url></car>
 		<car>
-			<unique_id>e494e8abf2a625482e2b16368cfebcd1</unique_id>
+			<unique_id>39fedb74253456b41c61b45abed86b25</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X50</folder_id>
 			<modification_id>1.5 AMT (150 л.с.)</modification_id>
@@ -5609,7 +5516,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>739097</max_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8622Z9RB942529</vin>
+			<vin>Y4K8622Z6RB943153</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
 
 ✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
@@ -5625,7 +5532,7 @@
 			</multiposting>
 		<url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-prestige-белый-2024/</url></car>
 		<car>
-			<unique_id>e494e8abf2a625482e2b16368cfebcd2</unique_id>
+			<unique_id>39fedb74253456b41c61b45abed86b26</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X50</folder_id>
 			<modification_id>1.5 AMT (150 л.с.)</modification_id>
@@ -5645,7 +5552,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>739097</max_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8622Z9RB942530</vin>
+			<vin>Y4K8622Z6RB943154</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
 
 ✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
@@ -5661,7 +5568,7 @@
 			</multiposting>
 		<url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-prestige-белый-2024/</url></car>
 		<car>
-			<unique_id>e494e8abf2a625482e2b16368cfebcd3</unique_id>
+			<unique_id>39fedb74253456b41c61b45abed86b27</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X50</folder_id>
 			<modification_id>1.5 AMT (150 л.с.)</modification_id>
@@ -5681,7 +5588,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>739097</max_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8622Z9RB942531</vin>
+			<vin>Y4K8622Z6RB943155</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
 
 ✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
@@ -5697,7 +5604,7 @@
 			</multiposting>
 		<url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-prestige-белый-2024/</url></car>
 		<car>
-			<unique_id>e494e8abf2a625482e2b16368cfebcd4</unique_id>
+			<unique_id>39fedb74253456b41c61b45abed86b28</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X50</folder_id>
 			<modification_id>1.5 AMT (150 л.с.)</modification_id>
@@ -5717,7 +5624,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>739097</max_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8622Z9RB942532</vin>
+			<vin>Y4K8622Z6RB943156</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
 
 ✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
@@ -5733,7 +5640,7 @@
 			</multiposting>
 		<url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-prestige-белый-2024/</url></car>
 		<car>
-			<unique_id>e494e8abf2a625482e2b16368cfebcd5</unique_id>
+			<unique_id>39fedb74253456b41c61b45abed86b29</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X50</folder_id>
 			<modification_id>1.5 AMT (150 л.с.)</modification_id>
@@ -5753,7 +5660,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>739097</max_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8622Z9RB942533</vin>
+			<vin>Y4K8622Z6RB943157</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
 
 ✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
@@ -5769,7 +5676,7 @@
 			</multiposting>
 		<url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-prestige-белый-2024/</url></car>
 		<car>
-			<unique_id>e494e8abf2a625482e2b16368cfebcd6</unique_id>
+			<unique_id>39fedb74253456b41c61b45abed86b3a</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X50</folder_id>
 			<modification_id>1.5 AMT (150 л.с.)</modification_id>
@@ -5789,7 +5696,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>739097</max_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8622Z9RB942534</vin>
+			<vin>Y4K8622Z6RB943158</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
 
 ✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
@@ -5805,7 +5712,7 @@
 			</multiposting>
 		<url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-prestige-белый-2024/</url></car>
 		<car>
-			<unique_id>e494e8abf2a625482e2b16368cfebcd7</unique_id>
+			<unique_id>39fedb74253456b41c61b45abed86b3b</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X50</folder_id>
 			<modification_id>1.5 AMT (150 л.с.)</modification_id>
@@ -5825,7 +5732,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>739097</max_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8622Z9RB942535</vin>
+			<vin>Y4K8622Z6RB943159</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
 
 ✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
@@ -5841,7 +5748,7 @@
 			</multiposting>
 		<url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-prestige-белый-2024/</url></car>
 		<car>
-			<unique_id>e494e8abf2a625482e2b16368cfebcd8</unique_id>
+			<unique_id>39fedb74253456b41c61b45abed86b3c</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X50</folder_id>
 			<modification_id>1.5 AMT (150 л.с.)</modification_id>
@@ -5861,7 +5768,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>739097</max_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8622Z9RB942536</vin>
+			<vin>Y4K8622Z6RB943160</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
 
 ✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
@@ -5877,7 +5784,7 @@
 			</multiposting>
 		<url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-prestige-белый-2024/</url></car>
 		<car>
-			<unique_id>e494e8abf2a625482e2b16368cfebcd9</unique_id>
+			<unique_id>39fedb74253456b41c61b45abed86b3d</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X50</folder_id>
 			<modification_id>1.5 AMT (150 л.с.)</modification_id>
@@ -5897,7 +5804,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>739097</max_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8622Z9RB942537</vin>
+			<vin>Y4K8622Z6RB943161</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
 
 ✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
@@ -5913,7 +5820,7 @@
 			</multiposting>
 		<url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-prestige-белый-2024/</url></car>
 		<car>
-			<unique_id>e494e8abf2a625482e2b16368cfebcea</unique_id>
+			<unique_id>39fedb74253456b41c61b45abed86b3e</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X50</folder_id>
 			<modification_id>1.5 AMT (150 л.с.)</modification_id>
@@ -5933,7 +5840,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>739097</max_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8622Z9RB942538</vin>
+			<vin>Y4K8622Z6RB943162</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
 
 ✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
@@ -5949,7 +5856,7 @@
 			</multiposting>
 		<url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-prestige-белый-2024/</url></car>
 		<car>
-			<unique_id>e494e8abf2a625482e2b16368cfebceb</unique_id>
+			<unique_id>39fedb74253456b41c61b45abed86b3f</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X50</folder_id>
 			<modification_id>1.5 AMT (150 л.с.)</modification_id>
@@ -5969,7 +5876,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>739097</max_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8622Z9RB942539</vin>
+			<vin>Y4K8622Z6RB943163</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
 
 ✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
@@ -6567,490 +6474,6 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-prestige-серебристый-2024/</url></car>
-		<car>
-			<unique_id>0369674afdca9cef96b3a8b0c7166d5f</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>5</run>
-			<year>2024</year>
-			<price>2590190</price>
-			<credit_discount>389097</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>350000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>739097</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z6RB927146</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/333483eb5d5c40dd21fd13e955c03b43.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/6434b68d6ff09a7d21a5d397e0b9d85c.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/fb37ea17af86fd0304cefe51b2b813a6.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/71ecb9ee133bb8057142776e33796b8e.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/255dcacbee6fb488142a1a204a2918e3.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/b539320963a61d1d52954ac95a9fa892.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/d3987707ab2bbe404d6369ae28c67c83.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-style-красный-2024/</url></car>
-		<car>
-			<unique_id>0369674afdca9cef96b3a8b0c7166d5g</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>5</run>
-			<year>2024</year>
-			<price>2590190</price>
-			<credit_discount>389097</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>350000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>739097</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z6RB927147</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/333483eb5d5c40dd21fd13e955c03b43.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/6434b68d6ff09a7d21a5d397e0b9d85c.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/fb37ea17af86fd0304cefe51b2b813a6.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/71ecb9ee133bb8057142776e33796b8e.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/255dcacbee6fb488142a1a204a2918e3.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/b539320963a61d1d52954ac95a9fa892.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/d3987707ab2bbe404d6369ae28c67c83.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-style-красный-2024/</url></car>
-		<car>
-			<unique_id>0369674afdca9cef96b3a8b0c7166d5h</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>5</run>
-			<year>2024</year>
-			<price>2590190</price>
-			<credit_discount>389097</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>350000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>739097</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z6RB927148</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/333483eb5d5c40dd21fd13e955c03b43.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/6434b68d6ff09a7d21a5d397e0b9d85c.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/fb37ea17af86fd0304cefe51b2b813a6.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/71ecb9ee133bb8057142776e33796b8e.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/255dcacbee6fb488142a1a204a2918e3.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/b539320963a61d1d52954ac95a9fa892.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/d3987707ab2bbe404d6369ae28c67c83.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-style-красный-2024/</url></car>
-		<car>
-			<unique_id>0369674afdca9cef96b3a8b0c7166d5i</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>5</run>
-			<year>2024</year>
-			<price>2590190</price>
-			<credit_discount>389097</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>350000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>739097</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z6RB927149</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/333483eb5d5c40dd21fd13e955c03b43.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/6434b68d6ff09a7d21a5d397e0b9d85c.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/fb37ea17af86fd0304cefe51b2b813a6.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/71ecb9ee133bb8057142776e33796b8e.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/255dcacbee6fb488142a1a204a2918e3.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/b539320963a61d1d52954ac95a9fa892.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/d3987707ab2bbe404d6369ae28c67c83.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-style-красный-2024/</url></car>
-		<car>
-			<unique_id>0369674afdca9cef96b3a8b0c7166d5j</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>5</run>
-			<year>2024</year>
-			<price>2590190</price>
-			<credit_discount>389097</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>350000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>739097</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z6RB927150</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/333483eb5d5c40dd21fd13e955c03b43.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/6434b68d6ff09a7d21a5d397e0b9d85c.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/fb37ea17af86fd0304cefe51b2b813a6.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/71ecb9ee133bb8057142776e33796b8e.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/255dcacbee6fb488142a1a204a2918e3.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/b539320963a61d1d52954ac95a9fa892.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/d3987707ab2bbe404d6369ae28c67c83.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-style-красный-2024/</url></car>
-		<car>
-			<unique_id>0369674afdca9cef96b3a8b0c7166d5k</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>5</run>
-			<year>2024</year>
-			<price>2590190</price>
-			<credit_discount>389097</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>350000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>739097</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z6RB927151</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/333483eb5d5c40dd21fd13e955c03b43.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/6434b68d6ff09a7d21a5d397e0b9d85c.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/fb37ea17af86fd0304cefe51b2b813a6.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/71ecb9ee133bb8057142776e33796b8e.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/255dcacbee6fb488142a1a204a2918e3.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/b539320963a61d1d52954ac95a9fa892.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/d3987707ab2bbe404d6369ae28c67c83.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-style-красный-2024/</url></car>
-		<car>
-			<unique_id>0369674afdca9cef96b3a8b0c7166d5l</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>5</run>
-			<year>2024</year>
-			<price>2590190</price>
-			<credit_discount>389097</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>350000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>739097</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z6RB927152</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/333483eb5d5c40dd21fd13e955c03b43.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/6434b68d6ff09a7d21a5d397e0b9d85c.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/fb37ea17af86fd0304cefe51b2b813a6.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/71ecb9ee133bb8057142776e33796b8e.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/255dcacbee6fb488142a1a204a2918e3.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/b539320963a61d1d52954ac95a9fa892.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/d3987707ab2bbe404d6369ae28c67c83.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-style-красный-2024/</url></car>
-		<car>
-			<unique_id>0369674afdca9cef96b3a8b0c7166d5m</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>5</run>
-			<year>2024</year>
-			<price>2590190</price>
-			<credit_discount>389097</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>350000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>739097</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z6RB927153</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/333483eb5d5c40dd21fd13e955c03b43.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/6434b68d6ff09a7d21a5d397e0b9d85c.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/fb37ea17af86fd0304cefe51b2b813a6.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/71ecb9ee133bb8057142776e33796b8e.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/255dcacbee6fb488142a1a204a2918e3.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/b539320963a61d1d52954ac95a9fa892.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/d3987707ab2bbe404d6369ae28c67c83.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-style-красный-2024/</url></car>
-		<car>
-			<unique_id>0369674afdca9cef96b3a8b0c7166d5n</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>5</run>
-			<year>2024</year>
-			<price>2590190</price>
-			<credit_discount>389097</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>350000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>739097</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z6RB927154</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/333483eb5d5c40dd21fd13e955c03b43.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/6434b68d6ff09a7d21a5d397e0b9d85c.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/fb37ea17af86fd0304cefe51b2b813a6.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/71ecb9ee133bb8057142776e33796b8e.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/255dcacbee6fb488142a1a204a2918e3.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/b539320963a61d1d52954ac95a9fa892.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/d3987707ab2bbe404d6369ae28c67c83.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-style-красный-2024/</url></car>
-		<car>
-			<unique_id>0369674afdca9cef96b3a8b0c7166d5o</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>5</run>
-			<year>2024</year>
-			<price>2590190</price>
-			<credit_discount>389097</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>350000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>739097</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z6RB927155</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/333483eb5d5c40dd21fd13e955c03b43.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/6434b68d6ff09a7d21a5d397e0b9d85c.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/fb37ea17af86fd0304cefe51b2b813a6.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/71ecb9ee133bb8057142776e33796b8e.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/255dcacbee6fb488142a1a204a2918e3.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/b539320963a61d1d52954ac95a9fa892.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/d3987707ab2bbe404d6369ae28c67c83.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-style-красный-2024/</url></car>
-		<car>
-			<unique_id>0369674afdca9cef96b3a8b0c7166d5p</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>5</run>
-			<year>2024</year>
-			<price>2590190</price>
-			<credit_discount>389097</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>350000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>739097</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z6RB927156</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/333483eb5d5c40dd21fd13e955c03b43.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/6434b68d6ff09a7d21a5d397e0b9d85c.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/fb37ea17af86fd0304cefe51b2b813a6.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/71ecb9ee133bb8057142776e33796b8e.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/255dcacbee6fb488142a1a204a2918e3.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/b539320963a61d1d52954ac95a9fa892.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB927145/d3987707ab2bbe404d6369ae28c67c83.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-style-красный-2024/</url></car>
 		<car>
 			<unique_id>1d92dd3ff82eb48ebbed16f00256619c</unique_id>
 			<mark_id>BELGEE</mark_id>
@@ -11298,7 +10721,7 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://belgee-partner-saratov.ru/cars/belgee-x70-15-at-150-лс-style-серебристый-2024/</url></car>
-		<car>
+	<car>
 			<unique_id>60038d9abd58c72a9b1f37a000a9f54b</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X70</folder_id>
@@ -11334,7 +10757,7 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://belgee-partner-saratov.ru/cars/belgee-x70-15-at-150-лс-style-серебристый-2024/</url></car>
-		<car>
+	<car>
 			<unique_id>60038d9abd58c72a9b1f37a000a9f54c</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X70</folder_id>
@@ -11370,7 +10793,7 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://belgee-partner-saratov.ru/cars/belgee-x70-15-at-150-лс-style-серебристый-2024/</url></car>
-		<car>
+	<car>
 			<unique_id>60038d9abd58c72a9b1f37a000a9f54d</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X70</folder_id>
@@ -11406,7 +10829,7 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://belgee-partner-saratov.ru/cars/belgee-x70-15-at-150-лс-style-серебристый-2024/</url></car>
-		<car>
+	<car>
 			<unique_id>60038d9abd58c72a9b1f37a000a9f54e</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X70</folder_id>
@@ -11442,7 +10865,7 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://belgee-partner-saratov.ru/cars/belgee-x70-15-at-150-лс-style-серебристый-2024/</url></car>
-		<car>
+	<car>
 			<unique_id>60038d9abd58c72a9b1f37a000a9f54f</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X70</folder_id>
@@ -11478,7 +10901,7 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://belgee-partner-saratov.ru/cars/belgee-x70-15-at-150-лс-style-серебристый-2024/</url></car>
-		<car>
+	<car>
 			<unique_id>60038d9abd58c72a9b1f37a000a9f54g</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X70</folder_id>
@@ -11514,7 +10937,7 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://belgee-partner-saratov.ru/cars/belgee-x70-15-at-150-лс-style-серебристый-2024/</url></car>
-		<car>
+	<car>
 			<unique_id>60038d9abd58c72a9b1f37a000a9f54h</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X70</folder_id>
@@ -11550,7 +10973,7 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://belgee-partner-saratov.ru/cars/belgee-x70-15-at-150-лс-style-серебристый-2024/</url></car>
-		<car>
+	<car>
 			<unique_id>60038d9abd58c72a9b1f37a000a9f54i</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X70</folder_id>
@@ -11586,7 +11009,7 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://belgee-partner-saratov.ru/cars/belgee-x70-15-at-150-лс-style-серебристый-2024/</url></car>
-		<car>
+	<car>
 			<unique_id>60038d9abd58c72a9b1f37a000a9f54j</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X70</folder_id>
@@ -11622,7 +11045,7 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://belgee-partner-saratov.ru/cars/belgee-x70-15-at-150-лс-style-серебристый-2024/</url></car>
-		<car>
+	<car>
 			<unique_id>60038d9abd58c72a9b1f37a000a9f54k</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X70</folder_id>
@@ -11658,1622 +11081,5 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://belgee-partner-saratov.ru/cars/belgee-x70-15-at-150-лс-style-серебристый-2024/</url></car>
-		<car>
-			<unique_id>16d9ea05da93c5921f35455f013bc0b6</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X70</folder_id>
-			<modification_id>1.5 AT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>2946190</price>
-			<credit_discount>628123</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>878123</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8722Z4RB330297</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/766e4fbbc0a86f28fce54d9793b95b92.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/b250dbf15f792a27d0029d74b0c6ddea.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/587767a6356432beca22776d24532543.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/5d2c1df4e1d36039719d41d5304753cf.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/ad6087772da33817c870df5d0d9efc88.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/c761f986461f15cedeb653b474bdaa9c.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/1eb824b9002f476ba60a270f3148b905.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/3babcc05800aead859d8d2b511b16372.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/4ddec9772b8a198a3a350f74e8654d63.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/f6a3425084251da65e6a33f6e9c5443b.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/530b9b8423d10747a581a3b90cb06b27.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/30b59f93f771e23a5e73c9fe52b9d883.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-partner-saratov.ru/cars/belgee-x70-15-at-150-лс-style-красный-2024/</url></car>
-	<car>
-			<unique_id>16d9ea05da93c5921f35455f013bc0b7</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X70</folder_id>
-			<modification_id>1.5 AT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>2946190</price>
-			<credit_discount>628123</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>878123</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8722Z4RB330298</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/766e4fbbc0a86f28fce54d9793b95b92.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/b250dbf15f792a27d0029d74b0c6ddea.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/587767a6356432beca22776d24532543.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/5d2c1df4e1d36039719d41d5304753cf.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/ad6087772da33817c870df5d0d9efc88.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/c761f986461f15cedeb653b474bdaa9c.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/1eb824b9002f476ba60a270f3148b905.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/3babcc05800aead859d8d2b511b16372.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/4ddec9772b8a198a3a350f74e8654d63.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/f6a3425084251da65e6a33f6e9c5443b.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/530b9b8423d10747a581a3b90cb06b27.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/30b59f93f771e23a5e73c9fe52b9d883.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-partner-saratov.ru/cars/belgee-x70-15-at-150-лс-style-красный-2024/</url></car>
-	<car>
-			<unique_id>16d9ea05da93c5921f35455f013bc0b8</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X70</folder_id>
-			<modification_id>1.5 AT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>2946190</price>
-			<credit_discount>628123</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>878123</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8722Z4RB330299</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/766e4fbbc0a86f28fce54d9793b95b92.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/b250dbf15f792a27d0029d74b0c6ddea.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/587767a6356432beca22776d24532543.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/5d2c1df4e1d36039719d41d5304753cf.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/ad6087772da33817c870df5d0d9efc88.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/c761f986461f15cedeb653b474bdaa9c.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/1eb824b9002f476ba60a270f3148b905.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/3babcc05800aead859d8d2b511b16372.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/4ddec9772b8a198a3a350f74e8654d63.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/f6a3425084251da65e6a33f6e9c5443b.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/530b9b8423d10747a581a3b90cb06b27.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/30b59f93f771e23a5e73c9fe52b9d883.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-partner-saratov.ru/cars/belgee-x70-15-at-150-лс-style-красный-2024/</url></car>
-	<car>
-			<unique_id>16d9ea05da93c5921f35455f013bc0b9</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X70</folder_id>
-			<modification_id>1.5 AT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>2946190</price>
-			<credit_discount>628123</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>878123</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8722Z4RB330300</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/766e4fbbc0a86f28fce54d9793b95b92.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/b250dbf15f792a27d0029d74b0c6ddea.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/587767a6356432beca22776d24532543.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/5d2c1df4e1d36039719d41d5304753cf.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/ad6087772da33817c870df5d0d9efc88.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/c761f986461f15cedeb653b474bdaa9c.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/1eb824b9002f476ba60a270f3148b905.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/3babcc05800aead859d8d2b511b16372.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/4ddec9772b8a198a3a350f74e8654d63.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/f6a3425084251da65e6a33f6e9c5443b.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/530b9b8423d10747a581a3b90cb06b27.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/30b59f93f771e23a5e73c9fe52b9d883.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-partner-saratov.ru/cars/belgee-x70-15-at-150-лс-style-красный-2024/</url></car>
-	<car>
-			<unique_id>16d9ea05da93c5921f35455f013bc0ca</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X70</folder_id>
-			<modification_id>1.5 AT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>2946190</price>
-			<credit_discount>628123</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>878123</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8722Z4RB330301</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/766e4fbbc0a86f28fce54d9793b95b92.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/b250dbf15f792a27d0029d74b0c6ddea.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/587767a6356432beca22776d24532543.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/5d2c1df4e1d36039719d41d5304753cf.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/ad6087772da33817c870df5d0d9efc88.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/c761f986461f15cedeb653b474bdaa9c.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/1eb824b9002f476ba60a270f3148b905.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/3babcc05800aead859d8d2b511b16372.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/4ddec9772b8a198a3a350f74e8654d63.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/f6a3425084251da65e6a33f6e9c5443b.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/530b9b8423d10747a581a3b90cb06b27.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/30b59f93f771e23a5e73c9fe52b9d883.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-partner-saratov.ru/cars/belgee-x70-15-at-150-лс-style-красный-2024/</url></car>
-	<car>
-			<unique_id>16d9ea05da93c5921f35455f013bc0cb</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X70</folder_id>
-			<modification_id>1.5 AT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>2946190</price>
-			<credit_discount>628123</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>878123</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8722Z4RB330302</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/766e4fbbc0a86f28fce54d9793b95b92.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/b250dbf15f792a27d0029d74b0c6ddea.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/587767a6356432beca22776d24532543.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/5d2c1df4e1d36039719d41d5304753cf.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/ad6087772da33817c870df5d0d9efc88.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/c761f986461f15cedeb653b474bdaa9c.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/1eb824b9002f476ba60a270f3148b905.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/3babcc05800aead859d8d2b511b16372.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/4ddec9772b8a198a3a350f74e8654d63.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/f6a3425084251da65e6a33f6e9c5443b.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/530b9b8423d10747a581a3b90cb06b27.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/30b59f93f771e23a5e73c9fe52b9d883.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-partner-saratov.ru/cars/belgee-x70-15-at-150-лс-style-красный-2024/</url></car>
-	<car>
-			<unique_id>16d9ea05da93c5921f35455f013bc0cc</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X70</folder_id>
-			<modification_id>1.5 AT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>2946190</price>
-			<credit_discount>628123</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>878123</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8722Z4RB330303</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/766e4fbbc0a86f28fce54d9793b95b92.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/b250dbf15f792a27d0029d74b0c6ddea.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/587767a6356432beca22776d24532543.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/5d2c1df4e1d36039719d41d5304753cf.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/ad6087772da33817c870df5d0d9efc88.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/c761f986461f15cedeb653b474bdaa9c.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/1eb824b9002f476ba60a270f3148b905.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/3babcc05800aead859d8d2b511b16372.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/4ddec9772b8a198a3a350f74e8654d63.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/f6a3425084251da65e6a33f6e9c5443b.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/530b9b8423d10747a581a3b90cb06b27.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/30b59f93f771e23a5e73c9fe52b9d883.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-partner-saratov.ru/cars/belgee-x70-15-at-150-лс-style-красный-2024/</url></car>
-	<car>
-			<unique_id>16d9ea05da93c5921f35455f013bc0cd</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X70</folder_id>
-			<modification_id>1.5 AT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>2946190</price>
-			<credit_discount>628123</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>878123</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8722Z4RB330304</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/766e4fbbc0a86f28fce54d9793b95b92.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/b250dbf15f792a27d0029d74b0c6ddea.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/587767a6356432beca22776d24532543.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/5d2c1df4e1d36039719d41d5304753cf.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/ad6087772da33817c870df5d0d9efc88.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/c761f986461f15cedeb653b474bdaa9c.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/1eb824b9002f476ba60a270f3148b905.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/3babcc05800aead859d8d2b511b16372.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/4ddec9772b8a198a3a350f74e8654d63.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/f6a3425084251da65e6a33f6e9c5443b.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/530b9b8423d10747a581a3b90cb06b27.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/30b59f93f771e23a5e73c9fe52b9d883.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-partner-saratov.ru/cars/belgee-x70-15-at-150-лс-style-красный-2024/</url></car>
-	<car>
-			<unique_id>16d9ea05da93c5921f35455f013bc0ce</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X70</folder_id>
-			<modification_id>1.5 AT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>2946190</price>
-			<credit_discount>628123</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>878123</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8722Z4RB330305</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/766e4fbbc0a86f28fce54d9793b95b92.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/b250dbf15f792a27d0029d74b0c6ddea.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/587767a6356432beca22776d24532543.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/5d2c1df4e1d36039719d41d5304753cf.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/ad6087772da33817c870df5d0d9efc88.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/c761f986461f15cedeb653b474bdaa9c.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/1eb824b9002f476ba60a270f3148b905.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/3babcc05800aead859d8d2b511b16372.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/4ddec9772b8a198a3a350f74e8654d63.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/f6a3425084251da65e6a33f6e9c5443b.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/530b9b8423d10747a581a3b90cb06b27.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/30b59f93f771e23a5e73c9fe52b9d883.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-partner-saratov.ru/cars/belgee-x70-15-at-150-лс-style-красный-2024/</url></car>
-	<car>
-			<unique_id>16d9ea05da93c5921f35455f013bc0cf</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X70</folder_id>
-			<modification_id>1.5 AT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>2946190</price>
-			<credit_discount>628123</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>878123</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8722Z4RB330306</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/766e4fbbc0a86f28fce54d9793b95b92.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/b250dbf15f792a27d0029d74b0c6ddea.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/587767a6356432beca22776d24532543.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/5d2c1df4e1d36039719d41d5304753cf.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/ad6087772da33817c870df5d0d9efc88.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/c761f986461f15cedeb653b474bdaa9c.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/1eb824b9002f476ba60a270f3148b905.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/3babcc05800aead859d8d2b511b16372.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/4ddec9772b8a198a3a350f74e8654d63.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/f6a3425084251da65e6a33f6e9c5443b.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/530b9b8423d10747a581a3b90cb06b27.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/30b59f93f771e23a5e73c9fe52b9d883.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-partner-saratov.ru/cars/belgee-x70-15-at-150-лс-style-красный-2024/</url></car>
-	<car>
-			<unique_id>16d9ea05da93c5921f35455f013bc0cg</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X70</folder_id>
-			<modification_id>1.5 AT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>2946190</price>
-			<credit_discount>628123</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>878123</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8722Z4RB330307</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/766e4fbbc0a86f28fce54d9793b95b92.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/b250dbf15f792a27d0029d74b0c6ddea.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/587767a6356432beca22776d24532543.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/5d2c1df4e1d36039719d41d5304753cf.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/ad6087772da33817c870df5d0d9efc88.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/c761f986461f15cedeb653b474bdaa9c.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/1eb824b9002f476ba60a270f3148b905.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/3babcc05800aead859d8d2b511b16372.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/4ddec9772b8a198a3a350f74e8654d63.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/f6a3425084251da65e6a33f6e9c5443b.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/530b9b8423d10747a581a3b90cb06b27.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/30b59f93f771e23a5e73c9fe52b9d883.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-partner-saratov.ru/cars/belgee-x70-15-at-150-лс-style-красный-2024/</url></car>
-	<car>
-			<unique_id>16d9ea05da93c5921f35455f013bc0ch</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X70</folder_id>
-			<modification_id>1.5 AT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>2946190</price>
-			<credit_discount>628123</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>878123</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8722Z4RB330308</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/766e4fbbc0a86f28fce54d9793b95b92.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/b250dbf15f792a27d0029d74b0c6ddea.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/587767a6356432beca22776d24532543.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/5d2c1df4e1d36039719d41d5304753cf.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/ad6087772da33817c870df5d0d9efc88.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/c761f986461f15cedeb653b474bdaa9c.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/1eb824b9002f476ba60a270f3148b905.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/3babcc05800aead859d8d2b511b16372.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/4ddec9772b8a198a3a350f74e8654d63.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/f6a3425084251da65e6a33f6e9c5443b.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/530b9b8423d10747a581a3b90cb06b27.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/30b59f93f771e23a5e73c9fe52b9d883.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-partner-saratov.ru/cars/belgee-x70-15-at-150-лс-style-красный-2024/</url></car>
-	<car>
-			<unique_id>16d9ea05da93c5921f35455f013bc0ci</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X70</folder_id>
-			<modification_id>1.5 AT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>2946190</price>
-			<credit_discount>628123</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>878123</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8722Z4RB330309</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/766e4fbbc0a86f28fce54d9793b95b92.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/b250dbf15f792a27d0029d74b0c6ddea.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/587767a6356432beca22776d24532543.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/5d2c1df4e1d36039719d41d5304753cf.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/ad6087772da33817c870df5d0d9efc88.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/c761f986461f15cedeb653b474bdaa9c.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/1eb824b9002f476ba60a270f3148b905.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/3babcc05800aead859d8d2b511b16372.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/4ddec9772b8a198a3a350f74e8654d63.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/f6a3425084251da65e6a33f6e9c5443b.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/530b9b8423d10747a581a3b90cb06b27.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/30b59f93f771e23a5e73c9fe52b9d883.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-partner-saratov.ru/cars/belgee-x70-15-at-150-лс-style-красный-2024/</url></car>
-	<car>
-			<unique_id>16d9ea05da93c5921f35455f013bc0cj</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X70</folder_id>
-			<modification_id>1.5 AT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>2946190</price>
-			<credit_discount>628123</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>878123</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8722Z4RB330310</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/766e4fbbc0a86f28fce54d9793b95b92.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/b250dbf15f792a27d0029d74b0c6ddea.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/587767a6356432beca22776d24532543.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/5d2c1df4e1d36039719d41d5304753cf.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/ad6087772da33817c870df5d0d9efc88.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/c761f986461f15cedeb653b474bdaa9c.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/1eb824b9002f476ba60a270f3148b905.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/3babcc05800aead859d8d2b511b16372.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/4ddec9772b8a198a3a350f74e8654d63.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/f6a3425084251da65e6a33f6e9c5443b.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/530b9b8423d10747a581a3b90cb06b27.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/30b59f93f771e23a5e73c9fe52b9d883.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-partner-saratov.ru/cars/belgee-x70-15-at-150-лс-style-красный-2024/</url></car>
-	<car>
-			<unique_id>16d9ea05da93c5921f35455f013bc0ck</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X70</folder_id>
-			<modification_id>1.5 AT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>2946190</price>
-			<credit_discount>628123</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>878123</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8722Z4RB330311</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/766e4fbbc0a86f28fce54d9793b95b92.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/b250dbf15f792a27d0029d74b0c6ddea.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/587767a6356432beca22776d24532543.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/5d2c1df4e1d36039719d41d5304753cf.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/ad6087772da33817c870df5d0d9efc88.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/c761f986461f15cedeb653b474bdaa9c.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/1eb824b9002f476ba60a270f3148b905.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/3babcc05800aead859d8d2b511b16372.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/4ddec9772b8a198a3a350f74e8654d63.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/f6a3425084251da65e6a33f6e9c5443b.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/530b9b8423d10747a581a3b90cb06b27.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/30b59f93f771e23a5e73c9fe52b9d883.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-partner-saratov.ru/cars/belgee-x70-15-at-150-лс-style-красный-2024/</url></car>
-	<car>
-			<unique_id>16d9ea05da93c5921f35455f013bc0cl</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X70</folder_id>
-			<modification_id>1.5 AT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>2946190</price>
-			<credit_discount>628123</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>878123</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8722Z4RB330312</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/766e4fbbc0a86f28fce54d9793b95b92.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/b250dbf15f792a27d0029d74b0c6ddea.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/587767a6356432beca22776d24532543.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/5d2c1df4e1d36039719d41d5304753cf.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/ad6087772da33817c870df5d0d9efc88.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/c761f986461f15cedeb653b474bdaa9c.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/1eb824b9002f476ba60a270f3148b905.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/3babcc05800aead859d8d2b511b16372.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/4ddec9772b8a198a3a350f74e8654d63.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/f6a3425084251da65e6a33f6e9c5443b.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/530b9b8423d10747a581a3b90cb06b27.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/30b59f93f771e23a5e73c9fe52b9d883.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-partner-saratov.ru/cars/belgee-x70-15-at-150-лс-style-красный-2024/</url></car>
-	<car>
-			<unique_id>16d9ea05da93c5921f35455f013bc0cm</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X70</folder_id>
-			<modification_id>1.5 AT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>2946190</price>
-			<credit_discount>628123</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>878123</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8722Z4RB330313</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/766e4fbbc0a86f28fce54d9793b95b92.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/b250dbf15f792a27d0029d74b0c6ddea.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/587767a6356432beca22776d24532543.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/5d2c1df4e1d36039719d41d5304753cf.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/ad6087772da33817c870df5d0d9efc88.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/c761f986461f15cedeb653b474bdaa9c.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/1eb824b9002f476ba60a270f3148b905.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/3babcc05800aead859d8d2b511b16372.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/4ddec9772b8a198a3a350f74e8654d63.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/f6a3425084251da65e6a33f6e9c5443b.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/530b9b8423d10747a581a3b90cb06b27.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/30b59f93f771e23a5e73c9fe52b9d883.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-partner-saratov.ru/cars/belgee-x70-15-at-150-лс-style-красный-2024/</url></car>
-	<car>
-			<unique_id>16d9ea05da93c5921f35455f013bc0cn</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X70</folder_id>
-			<modification_id>1.5 AT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>2946190</price>
-			<credit_discount>628123</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>878123</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8722Z4RB330314</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/766e4fbbc0a86f28fce54d9793b95b92.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/b250dbf15f792a27d0029d74b0c6ddea.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/587767a6356432beca22776d24532543.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/5d2c1df4e1d36039719d41d5304753cf.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/ad6087772da33817c870df5d0d9efc88.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/c761f986461f15cedeb653b474bdaa9c.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/1eb824b9002f476ba60a270f3148b905.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/3babcc05800aead859d8d2b511b16372.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/4ddec9772b8a198a3a350f74e8654d63.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/f6a3425084251da65e6a33f6e9c5443b.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/530b9b8423d10747a581a3b90cb06b27.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/30b59f93f771e23a5e73c9fe52b9d883.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-partner-saratov.ru/cars/belgee-x70-15-at-150-лс-style-красный-2024/</url></car>
-	<car>
-			<unique_id>16d9ea05da93c5921f35455f013bc0co</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X70</folder_id>
-			<modification_id>1.5 AT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>2946190</price>
-			<credit_discount>628123</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>878123</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8722Z4RB330315</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/766e4fbbc0a86f28fce54d9793b95b92.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/b250dbf15f792a27d0029d74b0c6ddea.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/587767a6356432beca22776d24532543.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/5d2c1df4e1d36039719d41d5304753cf.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/ad6087772da33817c870df5d0d9efc88.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/c761f986461f15cedeb653b474bdaa9c.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/1eb824b9002f476ba60a270f3148b905.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/3babcc05800aead859d8d2b511b16372.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/4ddec9772b8a198a3a350f74e8654d63.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/f6a3425084251da65e6a33f6e9c5443b.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/530b9b8423d10747a581a3b90cb06b27.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/30b59f93f771e23a5e73c9fe52b9d883.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-partner-saratov.ru/cars/belgee-x70-15-at-150-лс-style-красный-2024/</url></car>
-	<car>
-			<unique_id>16d9ea05da93c5921f35455f013bc0cp</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X70</folder_id>
-			<modification_id>1.5 AT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>2946190</price>
-			<credit_discount>628123</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>878123</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8722Z4RB330316</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/766e4fbbc0a86f28fce54d9793b95b92.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/b250dbf15f792a27d0029d74b0c6ddea.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/587767a6356432beca22776d24532543.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/5d2c1df4e1d36039719d41d5304753cf.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/ad6087772da33817c870df5d0d9efc88.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/c761f986461f15cedeb653b474bdaa9c.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/1eb824b9002f476ba60a270f3148b905.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/3babcc05800aead859d8d2b511b16372.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/4ddec9772b8a198a3a350f74e8654d63.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/f6a3425084251da65e6a33f6e9c5443b.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/530b9b8423d10747a581a3b90cb06b27.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/30b59f93f771e23a5e73c9fe52b9d883.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-partner-saratov.ru/cars/belgee-x70-15-at-150-лс-style-красный-2024/</url></car>
-	<car>
-			<unique_id>16d9ea05da93c5921f35455f013bc0cq</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X70</folder_id>
-			<modification_id>1.5 AT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>2946190</price>
-			<credit_discount>628123</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>878123</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8722Z4RB330317</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/766e4fbbc0a86f28fce54d9793b95b92.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/b250dbf15f792a27d0029d74b0c6ddea.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/587767a6356432beca22776d24532543.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/5d2c1df4e1d36039719d41d5304753cf.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/ad6087772da33817c870df5d0d9efc88.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/c761f986461f15cedeb653b474bdaa9c.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/1eb824b9002f476ba60a270f3148b905.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/3babcc05800aead859d8d2b511b16372.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/4ddec9772b8a198a3a350f74e8654d63.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/f6a3425084251da65e6a33f6e9c5443b.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/530b9b8423d10747a581a3b90cb06b27.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/30b59f93f771e23a5e73c9fe52b9d883.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-partner-saratov.ru/cars/belgee-x70-15-at-150-лс-style-красный-2024/</url></car>
-	<car>
-			<unique_id>16d9ea05da93c5921f35455f013bc0cr</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X70</folder_id>
-			<modification_id>1.5 AT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>2946190</price>
-			<credit_discount>628123</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>878123</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8722Z4RB330318</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/766e4fbbc0a86f28fce54d9793b95b92.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/b250dbf15f792a27d0029d74b0c6ddea.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/587767a6356432beca22776d24532543.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/5d2c1df4e1d36039719d41d5304753cf.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/ad6087772da33817c870df5d0d9efc88.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/c761f986461f15cedeb653b474bdaa9c.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/1eb824b9002f476ba60a270f3148b905.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/3babcc05800aead859d8d2b511b16372.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/4ddec9772b8a198a3a350f74e8654d63.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/f6a3425084251da65e6a33f6e9c5443b.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/530b9b8423d10747a581a3b90cb06b27.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/30b59f93f771e23a5e73c9fe52b9d883.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-partner-saratov.ru/cars/belgee-x70-15-at-150-лс-style-красный-2024/</url></car>
-	<car>
-			<unique_id>16d9ea05da93c5921f35455f013bc0cs</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X70</folder_id>
-			<modification_id>1.5 AT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>2946190</price>
-			<credit_discount>628123</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>878123</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8722Z4RB330319</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/766e4fbbc0a86f28fce54d9793b95b92.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/b250dbf15f792a27d0029d74b0c6ddea.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/587767a6356432beca22776d24532543.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/5d2c1df4e1d36039719d41d5304753cf.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/ad6087772da33817c870df5d0d9efc88.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/c761f986461f15cedeb653b474bdaa9c.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/1eb824b9002f476ba60a270f3148b905.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/3babcc05800aead859d8d2b511b16372.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/4ddec9772b8a198a3a350f74e8654d63.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/f6a3425084251da65e6a33f6e9c5443b.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/530b9b8423d10747a581a3b90cb06b27.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/30b59f93f771e23a5e73c9fe52b9d883.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-partner-saratov.ru/cars/belgee-x70-15-at-150-лс-style-красный-2024/</url></car>
-	<car>
-			<unique_id>16d9ea05da93c5921f35455f013bc0ct</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X70</folder_id>
-			<modification_id>1.5 AT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>2946190</price>
-			<credit_discount>628123</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>878123</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8722Z4RB330320</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/766e4fbbc0a86f28fce54d9793b95b92.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/b250dbf15f792a27d0029d74b0c6ddea.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/587767a6356432beca22776d24532543.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/5d2c1df4e1d36039719d41d5304753cf.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/ad6087772da33817c870df5d0d9efc88.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/c761f986461f15cedeb653b474bdaa9c.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/1eb824b9002f476ba60a270f3148b905.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/3babcc05800aead859d8d2b511b16372.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/4ddec9772b8a198a3a350f74e8654d63.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/f6a3425084251da65e6a33f6e9c5443b.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/530b9b8423d10747a581a3b90cb06b27.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/30b59f93f771e23a5e73c9fe52b9d883.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-partner-saratov.ru/cars/belgee-x70-15-at-150-лс-style-красный-2024/</url></car>
-	<car>
-			<unique_id>16d9ea05da93c5921f35455f013bc0cu</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X70</folder_id>
-			<modification_id>1.5 AT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>2946190</price>
-			<credit_discount>628123</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>878123</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8722Z4RB330321</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/766e4fbbc0a86f28fce54d9793b95b92.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/b250dbf15f792a27d0029d74b0c6ddea.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/587767a6356432beca22776d24532543.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/5d2c1df4e1d36039719d41d5304753cf.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/ad6087772da33817c870df5d0d9efc88.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/c761f986461f15cedeb653b474bdaa9c.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/1eb824b9002f476ba60a270f3148b905.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/3babcc05800aead859d8d2b511b16372.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/4ddec9772b8a198a3a350f74e8654d63.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/f6a3425084251da65e6a33f6e9c5443b.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/530b9b8423d10747a581a3b90cb06b27.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/30b59f93f771e23a5e73c9fe52b9d883.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-partner-saratov.ru/cars/belgee-x70-15-at-150-лс-style-красный-2024/</url></car>
-	<car>
-			<unique_id>16d9ea05da93c5921f35455f013bc0cv</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X70</folder_id>
-			<modification_id>1.5 AT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>2946190</price>
-			<credit_discount>628123</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>878123</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8722Z4RB330322</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/766e4fbbc0a86f28fce54d9793b95b92.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/b250dbf15f792a27d0029d74b0c6ddea.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/587767a6356432beca22776d24532543.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/5d2c1df4e1d36039719d41d5304753cf.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/ad6087772da33817c870df5d0d9efc88.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/c761f986461f15cedeb653b474bdaa9c.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/1eb824b9002f476ba60a270f3148b905.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/3babcc05800aead859d8d2b511b16372.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/4ddec9772b8a198a3a350f74e8654d63.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/f6a3425084251da65e6a33f6e9c5443b.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/530b9b8423d10747a581a3b90cb06b27.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/30b59f93f771e23a5e73c9fe52b9d883.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-partner-saratov.ru/cars/belgee-x70-15-at-150-лс-style-красный-2024/</url></car>
-	<car>
-			<unique_id>16d9ea05da93c5921f35455f013bc0cw</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X70</folder_id>
-			<modification_id>1.5 AT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>2946190</price>
-			<credit_discount>628123</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>878123</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8722Z4RB330323</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/766e4fbbc0a86f28fce54d9793b95b92.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/b250dbf15f792a27d0029d74b0c6ddea.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/587767a6356432beca22776d24532543.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/5d2c1df4e1d36039719d41d5304753cf.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/ad6087772da33817c870df5d0d9efc88.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/c761f986461f15cedeb653b474bdaa9c.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/1eb824b9002f476ba60a270f3148b905.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/3babcc05800aead859d8d2b511b16372.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/4ddec9772b8a198a3a350f74e8654d63.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/f6a3425084251da65e6a33f6e9c5443b.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/530b9b8423d10747a581a3b90cb06b27.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/30b59f93f771e23a5e73c9fe52b9d883.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-partner-saratov.ru/cars/belgee-x70-15-at-150-лс-style-красный-2024/</url></car>
-	<car>
-			<unique_id>16d9ea05da93c5921f35455f013bc0cx</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X70</folder_id>
-			<modification_id>1.5 AT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>2946190</price>
-			<credit_discount>628123</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>878123</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8722Z4RB330324</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/766e4fbbc0a86f28fce54d9793b95b92.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/b250dbf15f792a27d0029d74b0c6ddea.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/587767a6356432beca22776d24532543.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/5d2c1df4e1d36039719d41d5304753cf.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/ad6087772da33817c870df5d0d9efc88.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/c761f986461f15cedeb653b474bdaa9c.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/1eb824b9002f476ba60a270f3148b905.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/3babcc05800aead859d8d2b511b16372.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/4ddec9772b8a198a3a350f74e8654d63.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/f6a3425084251da65e6a33f6e9c5443b.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/530b9b8423d10747a581a3b90cb06b27.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/30b59f93f771e23a5e73c9fe52b9d883.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-partner-saratov.ru/cars/belgee-x70-15-at-150-лс-style-красный-2024/</url></car>
-	<car>
-			<unique_id>16d9ea05da93c5921f35455f013bc0cy</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X70</folder_id>
-			<modification_id>1.5 AT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>2946190</price>
-			<credit_discount>628123</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>878123</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8722Z4RB330325</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/766e4fbbc0a86f28fce54d9793b95b92.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/b250dbf15f792a27d0029d74b0c6ddea.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/587767a6356432beca22776d24532543.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/5d2c1df4e1d36039719d41d5304753cf.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/ad6087772da33817c870df5d0d9efc88.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/c761f986461f15cedeb653b474bdaa9c.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/1eb824b9002f476ba60a270f3148b905.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/3babcc05800aead859d8d2b511b16372.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/4ddec9772b8a198a3a350f74e8654d63.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/f6a3425084251da65e6a33f6e9c5443b.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/530b9b8423d10747a581a3b90cb06b27.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/30b59f93f771e23a5e73c9fe52b9d883.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-partner-saratov.ru/cars/belgee-x70-15-at-150-лс-style-красный-2024/</url></car>
-	<car>
-			<unique_id>16d9ea05da93c5921f35455f013bc0cz</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X70</folder_id>
-			<modification_id>1.5 AT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>2946190</price>
-			<credit_discount>628123</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>878123</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8722Z4RB330326</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/766e4fbbc0a86f28fce54d9793b95b92.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/b250dbf15f792a27d0029d74b0c6ddea.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/587767a6356432beca22776d24532543.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/5d2c1df4e1d36039719d41d5304753cf.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/ad6087772da33817c870df5d0d9efc88.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/c761f986461f15cedeb653b474bdaa9c.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/1eb824b9002f476ba60a270f3148b905.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/3babcc05800aead859d8d2b511b16372.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/4ddec9772b8a198a3a350f74e8654d63.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/f6a3425084251da65e6a33f6e9c5443b.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/530b9b8423d10747a581a3b90cb06b27.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/30b59f93f771e23a5e73c9fe52b9d883.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-partner-saratov.ru/cars/belgee-x70-15-at-150-лс-style-красный-2024/</url></car>
-	<car>
-			<unique_id>16d9ea05da93c5921f35455f013bc0c0</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X70</folder_id>
-			<modification_id>1.5 AT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>2946190</price>
-			<credit_discount>628123</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>878123</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8722Z4RB330327</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/766e4fbbc0a86f28fce54d9793b95b92.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/b250dbf15f792a27d0029d74b0c6ddea.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/587767a6356432beca22776d24532543.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/5d2c1df4e1d36039719d41d5304753cf.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/ad6087772da33817c870df5d0d9efc88.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/c761f986461f15cedeb653b474bdaa9c.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/1eb824b9002f476ba60a270f3148b905.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/3babcc05800aead859d8d2b511b16372.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/4ddec9772b8a198a3a350f74e8654d63.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/f6a3425084251da65e6a33f6e9c5443b.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/530b9b8423d10747a581a3b90cb06b27.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/30b59f93f771e23a5e73c9fe52b9d883.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-partner-saratov.ru/cars/belgee-x70-15-at-150-лс-style-красный-2024/</url></car>
-	<car>
-			<unique_id>16d9ea05da93c5921f35455f013bc0c1</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X70</folder_id>
-			<modification_id>1.5 AT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>2946190</price>
-			<credit_discount>628123</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>878123</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8722Z4RB330328</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/766e4fbbc0a86f28fce54d9793b95b92.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/b250dbf15f792a27d0029d74b0c6ddea.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/587767a6356432beca22776d24532543.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/5d2c1df4e1d36039719d41d5304753cf.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/ad6087772da33817c870df5d0d9efc88.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/c761f986461f15cedeb653b474bdaa9c.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/1eb824b9002f476ba60a270f3148b905.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/3babcc05800aead859d8d2b511b16372.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/4ddec9772b8a198a3a350f74e8654d63.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/f6a3425084251da65e6a33f6e9c5443b.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/530b9b8423d10747a581a3b90cb06b27.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/30b59f93f771e23a5e73c9fe52b9d883.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-partner-saratov.ru/cars/belgee-x70-15-at-150-лс-style-красный-2024/</url></car>
-	<car>
-			<unique_id>16d9ea05da93c5921f35455f013bc0c2</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X70</folder_id>
-			<modification_id>1.5 AT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>2946190</price>
-			<credit_discount>628123</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>878123</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8722Z4RB330329</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/766e4fbbc0a86f28fce54d9793b95b92.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/b250dbf15f792a27d0029d74b0c6ddea.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/587767a6356432beca22776d24532543.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/5d2c1df4e1d36039719d41d5304753cf.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/ad6087772da33817c870df5d0d9efc88.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/c761f986461f15cedeb653b474bdaa9c.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/1eb824b9002f476ba60a270f3148b905.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/3babcc05800aead859d8d2b511b16372.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/4ddec9772b8a198a3a350f74e8654d63.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/f6a3425084251da65e6a33f6e9c5443b.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/530b9b8423d10747a581a3b90cb06b27.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z4RB330296/30b59f93f771e23a5e73c9fe52b9d883.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-partner-saratov.ru/cars/belgee-x70-15-at-150-лс-style-красный-2024/</url></car>
 	</cars>
 </data>
